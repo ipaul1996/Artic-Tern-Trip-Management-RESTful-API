@@ -71,7 +71,7 @@
 # API Root Endpoint
 
 - http://localhost:8088/
-- http://localhost:8088/swagger-ui/
+- http://localhost:8088/swagger-ui/index.html#/
 
 # Feedback
 > Valuable feedback will be appreciated.
