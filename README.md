@@ -49,12 +49,12 @@
 - Spring Data JPA
 - Hibernate
 - lombok
-- Postman
-- Swagger
 - Maven
 - Git & GitHub
-- Eclipse
+- Spring Tool Suite
 - Intellij
+- Postman
+- Swagger
 
 ## Lessons Learned
 
